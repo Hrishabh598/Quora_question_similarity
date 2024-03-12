@@ -24,7 +24,7 @@ The dataset used for this project consists of pairs of questions from Quora, alo
 
 ## Usage
 
-1. **Dependencies**: Ensure that all required libraries and dependencies are installed. You can find the list of dependencies in the `requirements.txt` file.
+1. **Dependencies**: Ensure that all required libraries and dependencies are installed.
 
 2. **Data**: Prepare your dataset in the same format as the provided Quora question pairs dataset or modify the data loading functions accordingly.
 
